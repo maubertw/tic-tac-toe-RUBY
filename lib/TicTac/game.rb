@@ -32,7 +32,7 @@ class Game
 
   def take_turn(mark, player)
     @turn_number += 1
-    if @turn_number == 9
+    if @turn_number == 10
       puts "it's a draw!"
     else
       puts @board.print_board()
