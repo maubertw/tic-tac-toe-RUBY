@@ -1,8 +1,8 @@
-#Tic-Tac-Toe!
+# Tic-Tac-Toe!
 
 Thank you for visiting my first Ruby program repo!  This is a command line implementation of the classice game.
 
-##to play
+## to play
 
 Git clone this repo to your local machine.  From the root directory input:
 
