@@ -12,7 +12,7 @@ Then to play input:
 
 `ruby game.rb`
 
-The game will as for each player's name, and start with playerX.
+The game will ask for each player's name, and start with playerX.
 
 Enjoy!
 
